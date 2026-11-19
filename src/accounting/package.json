@@ -1,0 +1,12 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Student account management system converted from COBOL to Node.js",
+  "main": "index.js",
+  "author": "Hamdi Ben Jarrar",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  }
+}
